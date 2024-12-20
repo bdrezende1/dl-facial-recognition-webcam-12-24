@@ -1,9 +1,7 @@
 # dl-facial-recognition-webcam-12-24
 O código apresentado é um script para implementar detecção facial em imagens e vídeos capturados por webcam.
 ---
-Vou descrever o código detalhadamente em formato Markdown. Abaixo está a explicação:
 
-```markdown
 # Explicação Detalhada do Código: Reconhecimento Facial com Webcam
 
 ## Introdução
@@ -188,4 +186,3 @@ except Exception as err:
 ## Conclusão
 
 Este código exemplifica como integrar OpenCV com o Google Colab para realizar tarefas de visão computacional. Ele utiliza técnicas fundamentais de processamento de imagens e manipulação interativa no navegador para capturar, processar e exibir imagens e vídeos da webcam com detecção facial.
-```
